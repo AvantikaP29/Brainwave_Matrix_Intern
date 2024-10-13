@@ -1,0 +1,31 @@
+<style>
+#hero-section {
+  background: #fff5f2;
+  margin-top: 60px;
+}
+
+.text,
+.visual {
+  width: 50%;
+}
+
+.text {
+  margin: 0 20px;
+}
+
+.visual img {
+  width: 80%;
+  height: auto;
+  display: block;
+}
+
+#hero-section .text {
+  margin-left: 30px;
+}
+
+#hero-section .visual img {
+  margin-left: auto;
+}
+
+
+</style>
